@@ -1,1 +1,2 @@
-# uniapp_rtc_aar_library
+# rtc-video
+rtc-video android sdk 
