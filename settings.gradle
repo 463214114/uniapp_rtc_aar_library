@@ -13,5 +13,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "rtcvideo"
 include ':app'
-include ':rtc-video-aar'
+include ':rtc-video-aar:CRMeetingUI_4.1.52.6'
 include ':rtc-video'
