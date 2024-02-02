@@ -13,4 +13,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "rtcvideo"
 include ':app'
+include ':rtc-video-aar'
 include ':rtc-video'

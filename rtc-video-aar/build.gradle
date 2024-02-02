@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('CRMeetingUI_4.1.52.6.aar'))
