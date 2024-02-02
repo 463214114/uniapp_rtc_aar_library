@@ -29,12 +29,6 @@ android {
     }
 }
 
-repositories {
-    flatDir {
-        dirs 'libs'
-    }
-}
-
 dependencies {
     implementation files('libs/CRMeetingUI_4.1.52.6.aar')
     implementation 'com.mapzen:on-the-road:1.3.1'
